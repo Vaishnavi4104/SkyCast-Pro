@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vaishnavishinde2022/weather-app.git
+   git clone https://github.com/Vaishnavi4104/SkyCast-Pro.git
    ```
 
 2. Navigate to the project directory:
@@ -49,7 +49,7 @@ Before you begin, ensure you have the following installed:
 
 4. Create a `.env` file in the root directory and add your OpenWeather API key:
    ```env
-   VITE_OPENWEATHER_API_KEY=your_api_key_here
+   VITE_OPENWEATHER_API_KEY=5d202a459d1b0ecafc0daadf790043f5
    ```
 
 5. Start the development server:
@@ -61,7 +61,7 @@ Before you begin, ensure you have the following installed:
 
 The following environment variables are required:
 
-- `VITE_OPENWEATHER_API_KEY`: Your OpenWeather API key
+- `VITE_OPENWEATHER_API_KEY`: 5d202a459d1b0ecafc0daadf790043f5
 
 To obtain an API key:
 1. Sign up at [OpenWeather](https://openweathermap.org/)
@@ -99,6 +99,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📧
 
-Vaishnavi Shinde - [@vaishnavishinde2022](https://github.com/vaishnavishinde2022)
+Vaishnavi Shinde - [@vaishnavibs241@gmail.com](https://github.com/vaishnavi4104)
 
-Project Link: [https://github.com/vaishnavishinde2022/weather-app](https://github.com/vaishnavishinde2022/weather-app) 
+Project Link: [https://github.com/vaishnavishinde2022/weather-app](https://github.com/vaishnavi4104/weather-app) 
