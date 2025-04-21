@@ -101,4 +101,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Vaishnavi Shinde - [@vaishnavibs241@gmail.com](https://github.com/vaishnavi4104)
 
-Project Link: [https://github.com/vaishnavishinde2022/weather-app](https://github.com/vaishnavi4104/weather-app) 
+Project Link: [https://github.com/Vaishnavi4104/SkyCast-Pro.git](https://github.com/vaishnavi4104/SkyCast-Pro) 
