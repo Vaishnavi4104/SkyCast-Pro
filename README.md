@@ -2,6 +2,11 @@
 
 A modern, responsive weather application built with React and Vite that provides real-time weather information and forecasts.
 
+![Weather App Screenshot](image.png)
+
+## 🌐 Live Demo
+[View Live Demo](https://sky-cast-pro.vercel.app/)
+
 ## Features 🌟
 
 - **Real-time Weather Data**: Get current weather conditions for any location
@@ -101,4 +106,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Vaishnavi Shinde - [@vaishnavibs241@gmail.com](https://github.com/vaishnavi4104)
 
-Project Link: [https://github.com/Vaishnavi4104/SkyCast-Pro.git](https://github.com/vaishnavi4104/SkyCast-Pro) 
+Project Link: [https://github.com/Vaishnavi4104/SkyCast-Pro.git](https://github.com/vaishnavi4104/SkyCast-Pro)
+
+## Deployment 🚀
+
+This project is deployed on Vercel. To deploy your own version:
+
+1. Fork this repository
+2. Create a [Vercel account](https://vercel.com)
+3. Click on "Add New Project"
+4. Import your GitHub repository
+5. Configure the build settings:
+   - Framework Preset: Vite
+   - Build Command: `npm run build`
+   - Output Directory: `dist`
+6. Add your environment variable:
+   - VITE_OPENWEATHER_API_KEY: Your OpenWeather API key
+7. Click "Deploy"
+
+Your app will be automatically deployed and you'll get a production URL. Vercel will automatically redeploy whenever you push changes to your GitHub repository. 
